@@ -1,0 +1,91 @@
+#total{
+
+    width: 960px; /*largura da pagina*/
+
+    height: auto; /*altura da pagina*/
+
+    margin: auto; /*centralizar a divisão na pagina*/
+
+}
+
+
+
+#topo{
+
+    width: 960px;
+
+    height: 75px;
+
+
+
+}
+
+
+
+#logotipo{
+
+    width:267px;
+
+    height:75px;
+
+    float:left;  /*alinhamento a esquerda*/
+
+}
+
+#menu{
+
+    width:auto;
+
+    height:auto;
+
+    float:right; /*alinhamento a direito*/
+
+    margin-top: 27px;
+
+}
+
+
+
+#menu a{
+
+    color: rgb(251, 101, 146);
+
+    text-decoration: none; /*sem sublinhado*/
+
+    margin-left: 27px;
+
+
+
+}
+
+#menu a:hover{
+    text-decoration: underline;
+
+}
+
+#coluna1,#coluna2,#coluna3,#coluna4{
+    width: 210px;
+    height: auto;
+    float: left;
+    background-color: aquamarine;
+    margin-right: 40px;
+
+}
+
+#coluna4{
+    margin-right: 0px;
+}
+
+
+
+#banner{
+
+    width: 960px;
+
+    height: 300px;
+
+    float: left;
+
+}
+    
+    

@@ -1,0 +1,44 @@
+h1{
+
+    text-align: center;
+
+    /*centralizar texto*/
+
+    text-transform: uppercase;
+
+    /*Maíúsculo*/
+
+    color: #4CAF50;
+
+    /*cor da letra*/
+
+}
+#total{
+        width: 960px;
+        height: auto;
+        margin: auto;
+}
+#topo{
+    width: 960px;
+    height: 100px;
+    background-color: rgb(79, 224, 176);
+}
+    #conteudo1{
+        width: 600px;
+        height: 400px;
+        background-color: blue;
+        float: left;  
+ }
+    #conteudo2{
+    width: 360px;
+    height: 200px;
+    background-color: rgba(255, 0, 217, 0.912);
+    float: right;
+}
+
+    #conteudo3{
+        width: 360px;
+        height: 200px;
+        background-color: rgba(217, 255, 0, 0.915);
+        float: right;
+}
